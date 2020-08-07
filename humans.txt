@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sam Jecker	sam.jecker@lpl.com	@samjecker
 
 # THANKS
 
